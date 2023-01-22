@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react_platzi_c1/static/css/main.55d54667.css",
-    "main.js": "/react_platzi_c1/static/js/main.49ced546.js",
+    "main.js": "/react_platzi_c1/static/js/main.d3267761.js",
     "index.html": "/react_platzi_c1/index.html",
     "main.55d54667.css.map": "/react_platzi_c1/static/css/main.55d54667.css.map",
-    "main.49ced546.js.map": "/react_platzi_c1/static/js/main.49ced546.js.map"
+    "main.d3267761.js.map": "/react_platzi_c1/static/js/main.d3267761.js.map"
   },
   "entrypoints": [
     "static/css/main.55d54667.css",
-    "static/js/main.49ced546.js"
+    "static/js/main.d3267761.js"
   ]
 }
